@@ -55,5 +55,5 @@ This project is open-source and free to use for educational purposes.
 
 **Author:** Mir Aakif
 
-Profile: https\://github.com/meer-aakif-33/Quiz-app/commits?author=meer-aakif-33
+Profile: https://github.com/meer-aakif-33
 
